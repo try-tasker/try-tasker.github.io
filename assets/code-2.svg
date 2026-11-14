@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="132.626" height="118.103" viewBox="0 0 132.626 118.103" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Union" filter="url(#filter0_f_0_63)" style="mix-blend-mode:hard-light">
+<path d="M71.5732 28.8086C72.2323 26.7003 74.4756 25.5248 76.584 26.1836C78.6926 26.8425 79.8679 29.0867 79.209 31.1953L61.0527 89.2959C60.3936 91.4042 58.1494 92.5798 56.041 91.9209C53.9329 91.262 52.7578 89.0184 53.416 86.9102L71.5732 28.8086ZM41.6973 41.6982C43.2594 40.1363 45.7915 40.1362 47.3535 41.6982C48.9154 43.2603 48.9154 45.7924 47.3535 47.3545L35.6563 59.0508L47.3535 70.748C48.9155 72.3101 48.9155 74.8432 47.3535 76.4053C45.7915 77.9672 43.2594 77.967 41.6973 76.4053L27.1719 61.8799C25.6098 60.3178 25.6099 57.7857 27.1719 56.2236L41.6973 41.6982ZM85.2725 41.6982C86.8345 40.1362 89.3666 40.1362 90.9287 41.6982L105.454 56.2236C107.016 57.7857 107.016 60.3178 105.454 61.8799L90.9287 76.4053C89.3667 77.9671 86.8345 77.9671 85.2725 76.4053C83.7105 74.8432 83.7105 72.3101 85.2725 70.748L96.9688 59.0508L85.2725 47.3545C83.7105 45.7924 83.7105 43.2603 85.2725 41.6982Z" fill="url(#paint0_linear_0_63)"/>
+</g>
+<defs>
+<filter id="filter0_f_0_63" x="2.09198e-07" y="9.40752e-07" width="132.626" height="118.103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="13" result="effect1_foregroundBlur_0_63"/>
+</filter>
+<linearGradient id="paint0_linear_0_63" x1="66.3129" y1="26" x2="66.3129" y2="98.7138" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DD0A87"/>
+<stop offset="0.682692" stop-color="#F3443A"/>
+</linearGradient>
+</defs>
+</svg>
